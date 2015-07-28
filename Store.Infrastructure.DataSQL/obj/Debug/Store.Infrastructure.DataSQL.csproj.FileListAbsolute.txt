@@ -1,0 +1,12 @@
+c:\users\student\documents\visual studio 2013\Projects\Solution1\Store.Infrastructure.DataSQL\bin\Debug\Store.Infrastructure.DataSQL.dll.config
+c:\users\student\documents\visual studio 2013\Projects\Solution1\Store.Infrastructure.DataSQL\bin\Debug\Store.Infrastructure.DataSQL.dll
+c:\users\student\documents\visual studio 2013\Projects\Solution1\Store.Infrastructure.DataSQL\bin\Debug\Store.Infrastructure.DataSQL.pdb
+c:\users\student\documents\visual studio 2013\Projects\Solution1\Store.Infrastructure.DataSQL\bin\Debug\EntityFramework.dll
+c:\users\student\documents\visual studio 2013\Projects\Solution1\Store.Infrastructure.DataSQL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\student\documents\visual studio 2013\Projects\Solution1\Store.Infrastructure.DataSQL\bin\Debug\Store.Domain.dll
+c:\users\student\documents\visual studio 2013\Projects\Solution1\Store.Infrastructure.DataSQL\bin\Debug\Store.Domain.pdb
+c:\users\student\documents\visual studio 2013\Projects\Solution1\Store.Infrastructure.DataSQL\bin\Debug\EntityFramework.xml
+c:\users\student\documents\visual studio 2013\Projects\Solution1\Store.Infrastructure.DataSQL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\student\documents\visual studio 2013\Projects\Solution1\Store.Infrastructure.DataSQL\obj\Debug\Store.Infrastructure.DataSQL.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2013\Projects\Solution1\Store.Infrastructure.DataSQL\obj\Debug\Store.Infrastructure.DataSQL.dll
+c:\users\student\documents\visual studio 2013\Projects\Solution1\Store.Infrastructure.DataSQL\obj\Debug\Store.Infrastructure.DataSQL.pdb
